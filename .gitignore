@@ -5,6 +5,7 @@
 ## include all *.c files in root and subfolders
 !*.py
 !*.zip
+!7z1805-x64.exe
 !stock_basic.csv
 #!*.txt
 !*.bat
